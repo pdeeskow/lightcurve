@@ -170,3 +170,4 @@ This pipeline builds upon excellent open-source packages:
 - **ArviZ**: Bayesian analysis visualization
 
 Special thanks to the BAV and AAVSO communities for establishing data standards and promoting amateur-professional collaboration in variable star research.
+
